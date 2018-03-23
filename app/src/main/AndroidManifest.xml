@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="me.nithin.james.androidboilerplate">
+
+    <application
+        android:name="me.nithin.james.androidboilerplate.application.DefaultApplication"
+        android:allowBackup="false"
+        android:icon="@mipmap/ic_nithin_animoji"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_nithin_animoji_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity
+            android:name="me.nithin.james.androidboilerplate.core.DefaultActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>

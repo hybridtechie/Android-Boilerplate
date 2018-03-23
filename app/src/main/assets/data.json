@@ -1,0 +1,264 @@
+{
+  "about": "Android/Java Developer with 3+ yrs experience working with startups and MNCs. MIT (Data Science) Graduate from Queensland University of Technology with High Distinction. Always open to challenging opportunities which will help me sharpen my skills and learn something new.",
+	"linkedin":"https://www.linkedin.com/in/nithinjames/",
+	"facebook":"https://www.facebook.com/NithinJamesTechie",
+	"github":"https://github.com/hybridtechie",
+	"hackerrank":"https://www.hackerrank.com/the_hybrid",
+	"stackoverflow":"https://stackoverflow.com/users/4269156/hybrid?tab=profile",
+	"website":"http://nithinjames.me",
+	"achievements": [
+    {
+      "location": "Brisbane, Australia",
+      "time": "2017 Sem2",
+      "title": "Deans List for Academic Excellence - QUT "
+    },
+    {
+      "location": "Brisbane, Australia",
+      "time": "2017 Sem1",
+      "title": "Deans List for Academic Excellence - QUT"
+    },
+    {
+      "location": "Brisbane, Australia",
+      "time": "2016 Sem2",
+      "title": "Deans List for Academic Excellence - QUT"
+    },
+    {
+      "location": "Brisbane, Australia",
+      "time": "2017",
+      "title": "CEED Internship - Way We Do"
+    },
+    {
+      "location": "Kottayam, India",
+      "time": "2013",
+      "title": "Campus Ambassador - Infysec"
+    },
+    {
+      "location": "Kottayam, India",
+      "time": "2012",
+      "title": "Student Ambassador - ICTI"
+    },
+    {
+      "location": "Kottayam, India",
+      "time": "2011",
+      "title": "Student Ambassador - Mozilla"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Masters in Information Technology",
+      "institution": "Queensland University of Technology",
+      "location": "Brisbane, Australia",
+      "mark": "6.5/7",
+      "subject": "Data Science Major",
+      "year": "2017"
+    },
+    {
+      "degree": "Bachelors in Engineering",
+      "institution": "Rajiv Gandhi Institute of Technology",
+      "location": "Kottayam, India",
+      "mark": "7.5/10",
+      "subject": "Computer Science",
+      "year": "2014"
+    },
+    {
+      "degree": "AISSCE (Class 12)",
+      "institution": "St Antony's Public School and Junior College",
+      "location": "Kanjirappally, India",
+      "mark": "91%",
+      "subject": "Science",
+      "year": "2010"
+    },
+    {
+      "degree": "ICSE (Class 10)",
+      "institution": "Mar Thoma Residential School",
+      "location": "Thiruvalla, India",
+      "mark": "91%",
+      "subject": "General",
+      "year": "2008"
+    }
+  ],
+  "experience": [
+    {
+      "duration": "3\nMonths",
+      "location": "Brisbane, Australia",
+      "organization": "4Impact (Heritage)",
+      "role": "Android Consultant",
+      "tech": "Android,Java,SoapUI,Rest",
+      "time": "Feb,18 - Current"
+    },
+    {
+      "duration": "5\nMonths",
+      "location": "Brisbane, Australia",
+      "organization": "Way We Do",
+      "role": "Intern",
+      "tech": ".Net,Javascript,AWS",
+      "time": "Jun,17 - Oct,17"
+    },
+    {
+      "duration": "1.5\n Years",
+      "location": "Brisbane, Australia",
+      "organization": "Lucid Industries",
+      "role": "Android Developer",
+      "tech": "Java,Android,SQL",
+      "time": "Mar,16 - Dec,17"
+    },
+    {
+      "duration": "1.5\n Years",
+      "location": "Pune, India",
+      "organization": "Infosys",
+      "role": "Systems Engineer",
+      "tech": "Google Glass,Android,Java",
+      "time": "Jun,14 - Dec,15"
+    },
+    {
+      "duration": "2\n Years",
+      "location": "Kottayam, India",
+      "organization": "Self (Probuk)",
+      "role": "Freelancer",
+      "tech": "HTML,CSS,JS,PHP",
+      "time": "May,12 - Jun,14"
+    }
+  ],
+  "knowledge": [
+    {
+      "skill": "Python"
+    },
+    {
+      "skill": "R"
+    },
+    {
+      "skill": "Soap UI"
+    },
+    {
+      "skill": "Node JS"
+    },
+    {
+      "skill": "SAS"
+    },
+    {
+      "skill": "MySQL"
+    },
+    {
+      "skill": "Mongo DB"
+    },
+    {
+      "skill": "Hibernate"
+    },
+    {
+      "skill": "Phonegap"
+    },
+    {
+      "skill": "Sencha"
+    },
+    {
+      "skill": "Agile"
+    },
+    {
+      "skill": "Ethics"
+    },
+    {
+      "skill": "Spring"
+    },
+    {
+      "skill": "Rest API"
+    },
+    {
+      "skill": "Machine Learning"
+    },
+    {
+      "skill": "AI"
+    },
+    {
+      "skill": "Amazon AWS"
+    },
+    {
+      "skill": "Google Cloud"
+    },
+    {
+      "skill": "Big Data Analysis"
+    },
+    {
+      "skill": "MVC"
+    },
+    {
+      "skill": "Butterknife"
+    },
+    {
+      "skill": "Mockito"
+    },
+    {
+      "skill": "GDK"
+    },
+    {
+      "skill": "Dagger"
+    },
+    {
+      "skill": "TDD,DDD,FBD"
+    }
+  ],
+  "objective": "To utilize my creativity, adaptability, coding skills and passion to work in a dynamic professional environment thus adding value to the organization and developing my own signature in all my endeavours with utmost dedication.",
+  "techSkills": [
+    {
+      "imageName": "ico_android",
+      "rating": "98",
+      "skill": "Android"
+    },
+    {
+      "imageName": "ico_java",
+      "rating": "96",
+      "skill": "Java"
+    },
+    {
+      "imageName": "ico_wear",
+      "rating": "90",
+      "skill": "Android Wear"
+    },
+    {
+      "imageName": "ico_data",
+      "rating": "70",
+      "skill": "Data Analytics"
+    },
+    {
+      "imageName": "ico_net",
+      "rating": "65",
+      "skill": ".Net"
+    },
+    {
+      "imageName": "ico_html",
+      "rating": "75",
+      "skill": "HTML, CSS"
+    },
+    {
+      "imageName": "ico_js",
+      "rating": "60",
+      "skill": "Js"
+    }
+  ],
+  "typicalDay": [
+    {
+      "title": "Job",
+      "weekend": 2,
+      "workDay": 75
+    },
+    {
+      "title": "Family",
+      "weekend": 30,
+      "workDay": 15
+    },
+    {
+      "title": "Personal Project",
+      "weekend": 33,
+      "workDay": 5
+    },
+    {
+      "title": "Entertainment",
+      "weekend": 15,
+      "workDay": 3
+    },
+    {
+      "title": "Hobbies",
+      "weekend": 20,
+      "workDay": 2
+    }
+  ]
+}
