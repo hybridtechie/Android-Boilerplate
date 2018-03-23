@@ -14,7 +14,7 @@ import me.nithin.james.androidboilerplate.core.DefaultActivity;
  * NavigationHandler to navigate between screens, without locking them to a particular
  * Activity.
  * <p>
- * Created by dmarzano on 05/07/2017
+ * Created by HyBr!DT3cH!3 on 05/03/2018
  */
 public abstract class NavigableActivity extends DefaultActivity {
 

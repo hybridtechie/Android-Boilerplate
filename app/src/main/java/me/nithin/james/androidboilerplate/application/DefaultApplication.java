@@ -15,7 +15,7 @@ import java.util.UUID;
 import me.nithin.james.androidboilerplate.core.DefaultActivity;
 
 /**
- * Created by njames on 1/03/2018..
+ * Created by HyBr!DT3cH!3 on 1/03/2018..
  */
 
 public class DefaultApplication extends Application {
